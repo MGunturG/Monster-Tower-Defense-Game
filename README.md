@@ -9,10 +9,10 @@ Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempert
 
 # Screenshot
 
-![alt text](https://media1.tenor.com/images/f093ad8ea5e22c39abf8a40438fbd4a3/tenor.gif?itemid=14366046 "Gambar 1")
-![alt text](https://media1.tenor.com/images/3d124f67efd8e08b6fd3f0e748255a95/tenor.gif?itemid=4421172 "Gambar 2")
-![alt text](https://media1.tenor.com/images/46d73c3cc50fa32e0e1d8c2a38007477/tenor.gif?itemid=7513882 "Gambar 3")
-![alt text](https://media1.tenor.com/images/0bb5651771efea0728281a0ba02ff625/tenor.gif?itemid=4407980 "Gambar 4")
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/1.PNG "Gambar 1")
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/2.PNG "Gambar 2")
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/3.PNG "Gambar 3")
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/4.PNG "Gambar 4")
 
 # Gameplay
 ~ Ini isinya dokumentasi cara mainnya ~
