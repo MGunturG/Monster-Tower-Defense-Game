@@ -4,9 +4,11 @@ using UnityEngine.UI;
 public class Enemy : MonoBehaviour {
 
 	public float startSpeed = 10f;
+	public float startRotate = 90;
 
 	[HideInInspector]
 	public float speed;
+	public float rotate;
 
 	public float startHealth = 100;
 	private float health;
@@ -24,6 +26,7 @@ public class Enemy : MonoBehaviour {
 	{
 		speed = startSpeed;
 		health = startHealth;
+		rotate = startRotate;
 	}
 
 	public void TakeDamage (float amount)
