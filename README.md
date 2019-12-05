@@ -15,7 +15,13 @@ Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempert
 ![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/4.PNG "Gambar 4")
 
 # Gameplay
-~ Ini isinya dokumentasi cara mainnya ~
+1. Tower musuh akan men-deploy monster yang akan terus berjalan menuju tower kita
+2. Tersedia pilihan turret yang bisa player bangun untuk membunuh monster
+3. Membangun turret ada Cost yang harus dikeluarkan 
+4. Money akan berkurang saat membangun turret
+5. Money akan bertambah saat membunuh monster
+6. Player akan menang saat semua monster telah mati
+7. Player akan kalah saat monster berhasil lewat dan sampai ke tower player.
 
 # Development
 | Game Engine | Assets |
