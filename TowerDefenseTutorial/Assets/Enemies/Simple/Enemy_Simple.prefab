@@ -88,8 +88,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startSpeed: 10
+  startRotate: 90
   speed: 10
-  startHealth: 100
+  rotate: 0
+  startHealth: 120
   worth: 50
   deathEffect: {fileID: 1000010680075956, guid: ff75d2aaf6dbeef40a04ec1a235a7ca5,
     type: 2}
