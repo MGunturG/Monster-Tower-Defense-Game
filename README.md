@@ -30,31 +30,31 @@ Cost : 100\
 Damage : 50\
 Range : 15\
 
-*Upgraded Standard Turret*
-Upgrade Cost : 60
-Damage : 70
-Range : 15
-![alt text](TowerDefenseTutorial/Assets/Icons/MissileLauncherIcon.png "Weapon 1")
-*Missile Launcehr*
-Cost : 250
-Damage : 60
-Range : 30
+*Upgraded Standard Turret*\
+Upgrade Cost : 60\
+Damage : 70\
+Range : 15\
+![alt text](TowerDefenseTutorial/Assets/Icons/MissileLauncherIcon.png "Weapon 1")\
+*Missile Launcher*\
+Cost : 250\
+Damage : 60\
+Range : 30\
 
-*Upgraded Missile Launcehr*
-Upgrade Cost : 150
-Damage : 60
-Range : 40
-![alt text](TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "Weapon 1")
-*Laser Beamer*
-Cost : 350
-Damage : 30 (overtime)
-Range : 20
+*Upgraded Missile Launcher*\
+Upgrade Cost : 150\
+Damage : 60\
+Range : 40\
+![alt text](TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "Weapon 1")\
+*Laser Beamer*\
+Cost : 350\
+Damage : 30 (overtime)\
+Range : 20\
 
-*Upgraded Laser Beam*
-Upgrade Cost : 250
-Damage : 40
-Range : 30
-
+*Upgraded Laser Beam*\
+Upgrade Cost : 250\
+Damage : 40\
+Range : 30\
+\
 # Enemies
 
 
