@@ -24,7 +24,7 @@ Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempert
 7. Player akan kalah saat monster berhasil lewat dan sampai ke tower player.
 
 # Weapons
-![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/TowerDefenseTutorial/Assets/Icons/StandardTurretIcon.PNG "Weapon 1")
+![alt text](TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "Weapon 1")
 *Standard Turret*
 Cost : 100
 Damage : 50
