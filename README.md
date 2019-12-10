@@ -3,9 +3,9 @@
 Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempertahankan wilayah agar tidak di lewati musuh yang dapat dicapai dengan menempatkan *turret* di sepanjang jalan. Permainan ini memiliki beberapa gelombang, tiap gelombangnya musuh akan bertambah kuat dan di akhir gelombang *player* harus memusnahkan bos moster. Untuk menghambat musuh, *turret* dapat di-*upgrade* dengan uang hasil membunuh musuh.
 
 # Developer
-| Designer | Artist | Programer |
+| Designer | Artist | Programmer |
 | ------ | ------ | ------ | 
-| Muhamad Guntur (G64170020) | Rizha (G64170003) | Muhammad Nur Hidayat (G64170079) |
+| Muhamad Guntur (G64170020) | Rizha (G64170003) | Muhammad Nur Hidayat (G64170070) |
 
 # Screenshot
 
