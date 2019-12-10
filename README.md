@@ -23,6 +23,42 @@ Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempert
 6. Player akan menang saat semua monster telah mati
 7. Player akan kalah saat monster berhasil lewat dan sampai ke tower player.
 
+# Weapons
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/TowerDefenseTutorial/Assets/Icons/StandardTurretIcon.png "Weapon 1")
+*Standard Turret*
+Cost : 100
+Damage : 50
+Range : 15
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/1.PNG "Gambar 1")
+*Upgraded Standard Turret*
+Upgrade Cost : 60
+Damage : 70
+Range : 15
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/TowerDefenseTutorial/Assets/Icons/MissileLauncherIcon.png "Weapon 1")
+*Missile Launcehr*
+Cost : 250
+Damage : 60
+Range : 30
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/1.PNG "Gambar 1")
+*Upgraded Missile Launcehr*
+Upgrade Cost : 150
+Damage : 60
+Range : 40
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "Weapon 1")
+*Laser Beamer*
+Cost : 350
+Damage : 30 (overtime)
+Range : 20
+![alt text](https://github.com/MGunturG/Monster-Tower-Defense-Game/blob/master/TowerDefenseTutorial/Screenshot/1.PNG "Gambar 1")
+*Upgraded Laser Beam*
+Upgrade Cost : 250
+Damage : 40
+Range : 30
+
+# Enemies
+
+
+
 # Development
 | Game Engine | Assets |
 | ----------- | ------ |
