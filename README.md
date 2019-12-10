@@ -24,38 +24,61 @@ Monster Tower Defense adalah permainan yang tujuan utamanya adalah untuk mempert
 7. Player akan kalah saat monster berhasil lewat dan sampai ke tower player.
 
 # Weapons
-![alt text](TowerDefenseTutorial/Assets/Icons/StandardTurretIcon.png "Weapon 1")\
-*Standard Turret*\
+![alt text](TowerDefenseTutorial/Assets/Icons/StandardTurretIcon.png "Standard Turret")\
+**Standard Turret**\
 Cost : 100\
 Damage : 50\
-Range : 15\
+Range : 15
 
-*Upgraded Standard Turret*\
+**Upgraded Standard Turret**\
 Upgrade Cost : 60\
 Damage : 70\
 Range : 15\
-![alt text](TowerDefenseTutorial/Assets/Icons/MissileLauncherIcon.png "Weapon 1")\
-*Missile Launcher*\
+![alt text](TowerDefenseTutorial/Assets/Icons/MissileLauncherIcon.png "MissileLauncher")\
+**Missile Launcher**\
 Cost : 250\
 Damage : 60\
-Range : 30\
+Range : 30
 
-*Upgraded Missile Launcher*\
+**Upgraded Missile Launcher**\
 Upgrade Cost : 150\
 Damage : 60\
 Range : 40\
-![alt text](TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "Weapon 1")\
-*Laser Beamer*\
+![alt text](TowerDefenseTutorial/Assets/Icons/LaserBeamerIcon.png "LaserBeamer")\
+**Laser Beamer**\
 Cost : 350\
 Damage : 30 (overtime)\
-Range : 20\
+Range : 20
 
-*Upgraded Laser Beam*\
+**Upgraded Laser Beam**\
 Upgrade Cost : 250\
 Damage : 40\
 Range : 30\
-\
+
 # Enemies
+![alt text](TowerDefenseTutorial/Screenshot/Enemy/en1.JPG "Enemy_Simple")\
+**Enemy_Simple**\
+HP : 120\
+Speed : 10\
+Worth : 50
+
+![alt text](TowerDefenseTutorial/Screenshot/Enemy/enfast.JPG "Enemy_Fast")\
+**Enemy_Fast**\
+HP : 20\
+Speed : 40\
+Worth : 25
+
+![alt text](TowerDefenseTutorial/Screenshot/Enemy/entough.JPG "Enemy_Tough")\
+**Enemy_Tough**\
+HP : 350\
+Speed : 7\
+Worth : 140
+
+![alt text](TowerDefenseTutorial/Screenshot/Enemy/duragon.JPG "Dragon")\
+**Dragon**\
+HP : 2000\
+Speed : 5\
+Worth : 500
 
 
 
