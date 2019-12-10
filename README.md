@@ -80,7 +80,7 @@ HP : 2000\
 Speed : 5\
 Worth : 500
 
-[![yahuu](https://img.youtube.com/vi/https://youtu.be/xohH2lfkZk40.jpg)](https://www.youtube.com/watch?v=https://youtu.be/xohH2lfkZk4)
+[![](https://img.youtube.com/vi/https://youtu.be/xohH2lfkZk4.jpg)](https://www.youtube.com/watch?v=https://youtu.be/xohH2lfkZk4)
 
 https://youtu.be/xohH2lfkZk4
 
